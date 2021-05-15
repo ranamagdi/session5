@@ -1,2 +1,3 @@
 # session5
-blockchain training
+This repo talk about blockchain training 
+that have 2 tasks pit shop and truffle tasks 
